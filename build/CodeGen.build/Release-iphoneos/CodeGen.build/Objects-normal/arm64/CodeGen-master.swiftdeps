@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.7.1-dev (LLVM 597c04db307f4ed, Swift 2e814ca5d704c9f)"
-options: "a891d1d2e8486a021d4574ed131d3d5cb6aaee540dedbf3897314b3d867fb8bf"
-build_start_time: [1671363310, 867614984]
-build_end_time: [1671363311, 306833982]
-inputs:
-  "/Users/mattthomas/Documents/GitHub/CodeGen/CodeGen/AppDelegate.swift": [1671361389, 108608722]
-  "/Users/mattthomas/Documents/GitHub/CodeGen/CodeGen/SceneDelegate.swift": [1671361389, 113799095]
-  "/Users/mattthomas/Documents/GitHub/CodeGen/CodeGen/ViewController.swift": [1671363306, 241181373]
