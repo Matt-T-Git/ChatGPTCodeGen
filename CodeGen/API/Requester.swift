@@ -15,7 +15,7 @@ enum APIResult {
 
 final class Requester {
     
-    private static let authToken = "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"
+    private static let authToken = "replace_with_your_auth_token"
     private let openAPI = OpenAISwift(authToken: authToken)
     
     func sendRequest(query: String, completion: @escaping (APIResult) -> ()) {
